@@ -1,4 +1,3 @@
-
 def class_grades ():
     students = []
     number_of_inputs = 0
